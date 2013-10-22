@@ -1,0 +1,23 @@
+MATRIX && VECTOR EVALUATOR
+
+BY SEPEHR TAHERI
+
+A simple Matrix and Vector class in Java ( C++ incoming )that includes the provided functions.
+
+MATRIX.java
+
+Functions:
+	Equality
+	Transpose
+	Scalar Multiplication
+	Matrix Multiplication
+	Dot Product
+	Cross Product
+	Inverse (2x2, 3x3)
+
+THREEDEE.java
+
+Functions:
+	Translation
+	Rotation
+	Scale
